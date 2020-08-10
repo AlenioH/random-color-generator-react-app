@@ -52,7 +52,7 @@ function App() {
           setColor(generatesColor());
         }}
       >
-        Click here! {generatesColor()}
+        Click here! {generatesColor}
       </button>
     </div>
   );
